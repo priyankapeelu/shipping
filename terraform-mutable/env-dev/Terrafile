@@ -1,0 +1,4 @@
+app:
+  source:  "https://github.com/priyankapeelu/tf-module-mutable-app.git"
+  version: "main"
+
