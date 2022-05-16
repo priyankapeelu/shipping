@@ -6,7 +6,7 @@ variable "WORKSTATION_IP" {}
 variable "APP_VERSION" {}
 variable "OD_INSTANCE_COUNT" {}
 variable "APP_PORT" {}
-
+variable "APP_TYPE" {}
 
 
 #variable "INSTANCE_TYPE" {}
