@@ -1,0 +1,3 @@
+app:
+  source:  "https://github.com/priyankapeelu/tf-module-immutable-app.git"
+  version: "main"

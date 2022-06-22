@@ -1,0 +1,7 @@
+@Library('roboshop-shared-library@main') _
+
+env.REPONAME="shipping"
+env.TERRAFORM_DIR="terraform-immutable"
+terraform()
+
+
